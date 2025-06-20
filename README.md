@@ -13,7 +13,7 @@ Welcome! This chatbot gives simple definitions of computing terms.
    python chatbot.py
 
 
-4. When prompted, type in a computing term — it can be one word or a phrase.
+4. When prompted, type in a computing term, which can be one word or a phrase.
 
 5. If you want to quit, just type exit.
 
