@@ -25,7 +25,7 @@ If it finds a match, it shows you the definition. If not, it kindly lets you kno
 
 What I Learned Building This?
 
-How to work with JSON files in Python.
+How to work with JSON files in Python./n
 How to use fuzzy matching to handle typos and guess what users mean.
 Writing clean, interactive programs that take user input and respond.
 The basics of building a chatbot without using any heavy AI libraries.
